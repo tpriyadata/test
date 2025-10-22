@@ -1,0 +1,501 @@
+Device_ID,Device_Model,Region,Service_Request_Date,Defect_Type,Warranty_Claim,Resolution_Time_Days,Escalation,Device_Log_Score
+US-039,UltraScan-A,Europe,8/10/2025,Probe Malfunction,0,11,0,63.57
+US-029,UltraScan-C,North America,8/14/2025,Calibration,1,2,0,56.27
+US-015,UltraScan-A,Europe,2/22/2025,Probe Malfunction,0,12,0,66.85
+US-043,UltraScan-B,Europe,3/22/2025,Display Issue,1,12,1,99.98
+US-008,UltraScan-B,Asia,7/21/2025,Display Issue,1,9,0,70.29
+US-021,UltraScan-A,South America,6/7/2025,Display Issue,1,5,0,61.02
+US-039,UltraScan-C,South America,4/30/2025,Calibration,0,8,0,88.12
+US-019,UltraScan-B,Europe,2/28/2025,Calibration,0,2,0,77.12
+US-023,UltraScan-B,Asia,8/3/2025,Software Error,0,6,1,57.48
+US-011,UltraScan-B,Europe,5/8/2025,Calibration,0,3,0,69.03
+US-011,UltraScan-A,Europe,8/12/2025,Display Issue,0,12,0,70.72
+US-024,UltraScan-B,Europe,7/28/2025,Display Issue,1,12,0,87.69
+US-036,UltraScan-C,Asia,4/25/2025,Calibration,0,14,0,51.03
+US-040,UltraScan-B,South America,7/28/2025,Probe Malfunction,0,10,0,63.45
+US-024,UltraScan-B,Asia,1/14/2025,Calibration,0,5,1,75.88
+US-003,UltraScan-C,North America,1/9/2025,Calibration,0,12,0,63.44
+US-022,UltraScan-B,Asia,2/9/2025,Display Issue,0,8,1,81.42
+US-002,UltraScan-A,Asia,8/25/2025,Software Error,0,10,0,74.09
+US-024,UltraScan-A,Asia,7/20/2025,Display Issue,1,14,0,68.09
+US-044,UltraScan-A,Asia,9/3/2025,Software Error,0,1,0,97.46
+US-030,UltraScan-C,South America,8/23/2025,Display Issue,1,5,0,81.61
+US-038,UltraScan-B,North America,1/4/2025,Calibration,1,3,1,56.5
+US-002,UltraScan-A,South America,6/3/2025,Display Issue,0,4,0,78
+US-021,UltraScan-C,South America,1/29/2025,Display Issue,1,2,1,89.04
+US-033,UltraScan-B,Asia,4/19/2025,Display Issue,0,9,0,85.42
+US-012,UltraScan-C,Europe,4/8/2025,Calibration,1,3,0,58.6
+US-022,UltraScan-A,Europe,8/3/2025,Calibration,0,2,0,98.62
+US-044,UltraScan-A,South America,3/16/2025,Calibration,1,10,0,72.44
+US-025,UltraScan-A,South America,5/26/2025,Calibration,1,11,0,57.95
+US-049,UltraScan-C,Asia,5/8/2025,Software Error,1,9,1,59.01
+US-027,UltraScan-C,South America,2/11/2025,Software Error,1,7,0,54.91
+US-042,UltraScan-A,Asia,2/10/2025,Probe Malfunction,0,6,0,90.18
+US-028,UltraScan-C,Europe,2/3/2025,Calibration,0,1,0,56.1
+US-016,UltraScan-A,Europe,1/17/2025,Software Error,0,5,1,56.26
+US-015,UltraScan-A,North America,6/14/2025,Display Issue,0,12,0,92.52
+US-047,UltraScan-B,Europe,6/2/2025,Calibration,0,11,1,67.23
+US-044,UltraScan-C,South America,3/17/2025,Probe Malfunction,0,14,0,51.54
+US-003,UltraScan-A,Europe,3/28/2025,Probe Malfunction,1,11,0,52.59
+US-037,UltraScan-A,Asia,4/27/2025,Probe Malfunction,0,3,0,57.11
+US-007,UltraScan-C,Europe,1/27/2025,Display Issue,1,1,0,60.67
+US-021,UltraScan-B,North America,5/14/2025,Software Error,0,4,0,83.26
+US-009,UltraScan-B,Europe,8/7/2025,Display Issue,1,13,0,57.87
+US-039,UltraScan-A,Asia,6/17/2025,Calibration,1,2,0,55.94
+US-018,UltraScan-C,Asia,4/8/2025,Probe Malfunction,0,2,0,88.24
+US-004,UltraScan-B,South America,9/25/2025,Display Issue,0,3,0,83.55
+US-025,UltraScan-C,Europe,8/25/2025,Display Issue,1,8,1,71.77
+US-014,UltraScan-C,Asia,6/22/2025,Software Error,0,8,0,77.47
+US-050,UltraScan-A,North America,7/9/2025,Software Error,0,12,1,65.6
+US-009,UltraScan-B,South America,5/2/2025,Probe Malfunction,0,7,0,74.13
+US-026,UltraScan-A,North America,2/15/2025,Display Issue,0,6,0,75.33
+US-002,UltraScan-B,Europe,3/5/2025,Display Issue,0,9,0,69.36
+US-020,UltraScan-B,Europe,5/10/2025,Software Error,0,4,0,95.33
+US-028,UltraScan-B,Europe,7/12/2025,Display Issue,0,12,0,50.8
+US-047,UltraScan-B,South America,6/30/2025,Display Issue,0,1,0,89.11
+US-007,UltraScan-B,Asia,1/29/2025,Display Issue,1,8,0,56.22
+US-044,UltraScan-C,South America,5/29/2025,Software Error,0,7,0,89.88
+US-008,UltraScan-A,North America,9/24/2025,Probe Malfunction,1,7,0,80.8
+US-047,UltraScan-C,South America,1/11/2025,Calibration,0,3,0,92.16
+US-035,UltraScan-B,North America,6/13/2025,Probe Malfunction,0,4,0,54.88
+US-014,UltraScan-A,South America,4/23/2025,Calibration,0,10,0,77.95
+US-017,UltraScan-B,Asia,7/6/2025,Display Issue,0,9,1,75.05
+US-036,UltraScan-A,North America,8/20/2025,Probe Malfunction,0,6,1,85.31
+US-050,UltraScan-C,Europe,8/15/2025,Calibration,0,5,0,76.71
+US-040,UltraScan-A,Europe,4/8/2025,Software Error,0,3,0,77.04
+US-004,UltraScan-A,South America,2/24/2025,Software Error,0,9,0,71.48
+US-002,UltraScan-A,Europe,4/21/2025,Probe Malfunction,0,5,0,65.44
+US-006,UltraScan-A,North America,6/1/2025,Probe Malfunction,0,5,0,74.11
+US-042,UltraScan-A,Europe,9/3/2025,Display Issue,0,14,0,55.92
+US-004,UltraScan-B,Asia,3/10/2025,Probe Malfunction,1,4,0,98.08
+US-029,UltraScan-A,Asia,9/7/2025,Display Issue,0,14,0,85.72
+US-018,UltraScan-A,South America,2/5/2025,Display Issue,0,4,0,97.62
+US-026,UltraScan-C,North America,8/27/2025,Software Error,1,12,0,61.34
+US-044,UltraScan-A,Asia,5/28/2025,Software Error,0,1,1,93.97
+US-034,UltraScan-C,Asia,8/15/2025,Calibration,0,7,0,90.44
+US-010,UltraScan-B,North America,9/1/2025,Software Error,1,9,0,83.86
+US-036,UltraScan-A,Europe,7/20/2025,Software Error,0,3,1,81.25
+US-014,UltraScan-C,Europe,6/3/2025,Probe Malfunction,0,12,0,65.83
+US-031,UltraScan-C,South America,3/14/2025,Software Error,0,13,0,90.82
+US-048,UltraScan-B,Europe,7/20/2025,Calibration,0,2,0,75.08
+US-015,UltraScan-A,North America,1/17/2025,Probe Malfunction,0,3,0,53.54
+US-008,UltraScan-A,Asia,5/9/2025,Calibration,0,1,1,65.64
+US-014,UltraScan-C,Europe,8/5/2025,Software Error,0,6,0,96.76
+US-023,UltraScan-A,South America,3/2/2025,Calibration,0,11,1,92.53
+US-040,UltraScan-C,Europe,4/14/2025,Probe Malfunction,1,11,0,99.1
+US-021,UltraScan-A,North America,2/11/2025,Display Issue,1,7,0,81.4
+US-016,UltraScan-C,South America,1/25/2025,Calibration,0,11,0,62.38
+US-045,UltraScan-A,Europe,2/8/2025,Calibration,0,11,0,58.14
+US-018,UltraScan-B,South America,5/11/2025,Probe Malfunction,0,2,0,59.35
+US-047,UltraScan-A,North America,8/17/2025,Probe Malfunction,0,8,0,50.99
+US-024,UltraScan-A,Asia,4/18/2025,Calibration,0,14,0,69.53
+US-026,UltraScan-B,North America,6/21/2025,Software Error,0,6,0,59.57
+US-025,UltraScan-A,North America,4/12/2025,Calibration,1,14,1,70.58
+US-045,UltraScan-B,North America,1/12/2025,Probe Malfunction,0,4,0,96.75
+US-041,UltraScan-A,North America,4/11/2025,Display Issue,0,5,0,71.53
+US-029,UltraScan-C,Asia,2/13/2025,Display Issue,0,8,0,93.9
+US-015,UltraScan-C,Asia,1/17/2025,Software Error,0,14,1,80.28
+US-045,UltraScan-A,South America,2/26/2025,Calibration,1,3,0,62.36
+US-001,UltraScan-A,Europe,1/12/2025,Display Issue,1,3,1,67.79
+US-025,UltraScan-A,Asia,3/21/2025,Calibration,1,14,0,54.2
+US-007,UltraScan-C,Asia,8/4/2025,Probe Malfunction,0,14,0,66.67
+US-009,UltraScan-A,Europe,9/21/2025,Display Issue,0,11,0,83.88
+US-024,UltraScan-C,Asia,5/29/2025,Software Error,0,4,1,53.61
+US-001,UltraScan-B,North America,3/22/2025,Probe Malfunction,0,1,0,60.27
+US-044,UltraScan-C,North America,8/3/2025,Software Error,0,9,0,69.07
+US-008,UltraScan-C,Europe,7/17/2025,Probe Malfunction,1,8,0,99.1
+US-024,UltraScan-B,South America,7/19/2025,Display Issue,0,8,0,89.24
+US-011,UltraScan-C,South America,1/25/2025,Software Error,0,14,1,86.67
+US-017,UltraScan-A,Europe,3/30/2025,Software Error,0,10,0,55.81
+US-008,UltraScan-A,Europe,9/25/2025,Probe Malfunction,0,6,1,89.05
+US-035,UltraScan-C,North America,5/23/2025,Software Error,0,7,0,89.26
+US-035,UltraScan-A,South America,2/28/2025,Probe Malfunction,1,6,0,80.06
+US-033,UltraScan-C,Asia,1/26/2025,Probe Malfunction,1,9,0,99.52
+US-005,UltraScan-A,North America,2/16/2025,Probe Malfunction,1,3,0,66.26
+US-042,UltraScan-A,Europe,9/23/2025,Probe Malfunction,0,14,0,97.06
+US-039,UltraScan-C,South America,1/16/2025,Display Issue,0,3,0,95.74
+US-041,UltraScan-A,Asia,7/18/2025,Probe Malfunction,0,3,0,50.57
+US-028,UltraScan-C,Asia,3/27/2025,Calibration,0,10,1,72.51
+US-007,UltraScan-A,North America,9/7/2025,Software Error,1,3,1,98.86
+US-009,UltraScan-A,South America,9/27/2025,Calibration,0,9,1,55.16
+US-008,UltraScan-B,South America,4/27/2025,Display Issue,0,12,1,77.39
+US-012,UltraScan-B,Europe,1/7/2025,Calibration,0,4,0,98.95
+US-034,UltraScan-C,South America,5/17/2025,Software Error,0,13,0,77.77
+US-033,UltraScan-B,South America,6/25/2025,Calibration,1,7,0,59.49
+US-048,UltraScan-C,North America,8/3/2025,Display Issue,0,14,0,79.11
+US-023,UltraScan-B,South America,3/23/2025,Probe Malfunction,0,9,0,60.22
+US-024,UltraScan-A,Asia,8/11/2025,Calibration,0,11,0,75.99
+US-037,UltraScan-C,North America,4/13/2025,Display Issue,0,12,0,53.7
+US-035,UltraScan-C,North America,1/14/2025,Display Issue,1,7,0,80.27
+US-044,UltraScan-A,Europe,6/8/2025,Software Error,1,9,0,75.84
+US-040,UltraScan-C,South America,6/1/2025,Software Error,1,12,0,87.01
+US-022,UltraScan-C,Europe,4/18/2025,Calibration,1,3,0,81.54
+US-027,UltraScan-B,Asia,7/7/2025,Probe Malfunction,0,4,0,77.48
+US-035,UltraScan-C,North America,4/8/2025,Display Issue,0,14,0,84.49
+US-001,UltraScan-A,North America,5/11/2025,Calibration,0,8,0,57.2
+US-035,UltraScan-B,North America,6/20/2025,Display Issue,0,6,1,79.77
+US-037,UltraScan-B,Asia,7/2/2025,Display Issue,1,5,0,58.61
+US-047,UltraScan-A,Asia,2/8/2025,Probe Malfunction,0,13,0,96.28
+US-014,UltraScan-A,Europe,1/15/2025,Probe Malfunction,1,4,1,53.42
+US-003,UltraScan-B,Europe,1/4/2025,Calibration,0,8,0,71.52
+US-001,UltraScan-C,Europe,7/29/2025,Probe Malfunction,0,1,0,84.79
+US-005,UltraScan-B,South America,6/10/2025,Probe Malfunction,0,14,0,72.9
+US-026,UltraScan-A,North America,1/16/2025,Calibration,1,9,0,54.6
+US-014,UltraScan-B,North America,4/18/2025,Probe Malfunction,0,1,0,77.67
+US-039,UltraScan-A,Europe,8/15/2025,Software Error,0,8,0,82.08
+US-027,UltraScan-B,North America,6/19/2025,Display Issue,0,4,1,85.19
+US-009,UltraScan-C,Europe,2/3/2025,Display Issue,0,9,0,68.66
+US-015,UltraScan-B,South America,9/8/2025,Display Issue,0,14,0,78.18
+US-015,UltraScan-B,South America,9/4/2025,Display Issue,1,11,0,72.53
+US-026,UltraScan-A,Asia,9/26/2025,Calibration,0,5,0,83.6
+US-042,UltraScan-A,South America,5/21/2025,Display Issue,0,3,0,79.18
+US-013,UltraScan-A,Europe,4/6/2025,Display Issue,0,9,0,76.29
+US-032,UltraScan-B,South America,8/15/2025,Display Issue,0,11,1,62.48
+US-039,UltraScan-C,Asia,2/8/2025,Display Issue,1,14,0,50.1
+US-049,UltraScan-A,North America,1/29/2025,Software Error,0,14,0,58.7
+US-032,UltraScan-A,Europe,9/2/2025,Display Issue,0,9,0,55.85
+US-004,UltraScan-B,North America,8/24/2025,Software Error,0,4,0,72.45
+US-030,UltraScan-A,Asia,7/4/2025,Calibration,1,11,0,80.61
+US-037,UltraScan-C,Asia,8/24/2025,Probe Malfunction,1,4,0,60.65
+US-023,UltraScan-C,Asia,8/27/2025,Display Issue,0,12,0,96.95
+US-039,UltraScan-A,North America,9/23/2025,Probe Malfunction,0,8,0,50.33
+US-045,UltraScan-A,North America,3/6/2025,Probe Malfunction,0,2,1,88.62
+US-015,UltraScan-B,North America,6/26/2025,Calibration,1,9,0,81.26
+US-043,UltraScan-C,North America,1/3/2025,Probe Malfunction,0,13,1,68.68
+US-029,UltraScan-C,Asia,5/22/2025,Software Error,0,14,0,52.52
+US-036,UltraScan-A,Asia,6/7/2025,Probe Malfunction,0,6,0,81.37
+US-013,UltraScan-B,Europe,5/26/2025,Probe Malfunction,0,9,0,69.28
+US-032,UltraScan-C,Europe,6/2/2025,Probe Malfunction,0,8,0,96.81
+US-007,UltraScan-C,North America,7/12/2025,Display Issue,1,7,0,77.1
+US-022,UltraScan-B,South America,3/14/2025,Display Issue,0,13,0,96.98
+US-028,UltraScan-B,South America,5/20/2025,Software Error,0,14,0,61.02
+US-002,UltraScan-C,Asia,7/6/2025,Software Error,0,1,0,86.29
+US-042,UltraScan-C,Asia,3/2/2025,Display Issue,1,14,0,80.86
+US-045,UltraScan-B,Asia,7/17/2025,Software Error,0,12,1,86.97
+US-006,UltraScan-C,Europe,1/11/2025,Display Issue,1,3,0,60.73
+US-028,UltraScan-A,Europe,3/3/2025,Calibration,0,11,0,83.25
+US-028,UltraScan-A,Asia,8/14/2025,Probe Malfunction,0,14,0,74.9
+US-044,UltraScan-B,Asia,6/2/2025,Probe Malfunction,0,2,1,87.14
+US-044,UltraScan-B,Asia,7/18/2025,Software Error,0,5,1,66.35
+US-020,UltraScan-B,South America,2/21/2025,Display Issue,0,5,0,94.5
+US-030,UltraScan-A,Europe,9/17/2025,Display Issue,1,5,0,54.22
+US-011,UltraScan-C,South America,2/28/2025,Software Error,0,4,0,90.36
+US-028,UltraScan-A,South America,3/13/2025,Display Issue,0,5,0,93.07
+US-025,UltraScan-C,Asia,5/28/2025,Calibration,0,3,0,90.86
+US-039,UltraScan-A,Asia,3/4/2025,Probe Malfunction,1,12,0,75.64
+US-033,UltraScan-C,North America,8/31/2025,Software Error,1,1,0,71.92
+US-001,UltraScan-A,North America,4/17/2025,Software Error,0,5,0,99.81
+US-027,UltraScan-B,South America,8/14/2025,Display Issue,1,13,1,61.46
+US-013,UltraScan-A,Europe,8/6/2025,Software Error,0,9,0,77.34
+US-041,UltraScan-C,Asia,8/29/2025,Calibration,0,13,0,83.53
+US-003,UltraScan-A,Asia,9/16/2025,Display Issue,1,9,0,85.04
+US-039,UltraScan-A,South America,9/19/2025,Display Issue,1,4,1,60.2
+US-006,UltraScan-A,North America,1/5/2025,Display Issue,0,3,0,82.7
+US-008,UltraScan-B,Europe,9/18/2025,Display Issue,0,1,1,90.92
+US-027,UltraScan-A,North America,2/23/2025,Calibration,0,2,1,52.5
+US-009,UltraScan-B,North America,2/16/2025,Display Issue,1,8,0,95.58
+US-037,UltraScan-B,North America,8/3/2025,Software Error,0,1,0,51.48
+US-033,UltraScan-A,North America,6/26/2025,Calibration,0,8,1,67.8
+US-042,UltraScan-A,Asia,1/9/2025,Probe Malfunction,0,13,0,50.79
+US-044,UltraScan-A,Asia,4/9/2025,Probe Malfunction,0,7,1,53.86
+US-024,UltraScan-C,North America,1/20/2025,Software Error,0,8,1,95.56
+US-015,UltraScan-A,Europe,8/29/2025,Software Error,1,12,0,67.74
+US-032,UltraScan-B,South America,3/2/2025,Calibration,0,6,0,71.24
+US-032,UltraScan-A,Europe,6/27/2025,Probe Malfunction,0,12,1,60.77
+US-024,UltraScan-C,Europe,3/3/2025,Probe Malfunction,0,14,0,79.85
+US-041,UltraScan-A,Europe,5/25/2025,Probe Malfunction,1,9,0,79.74
+US-049,UltraScan-C,North America,8/4/2025,Probe Malfunction,0,3,0,68.61
+US-049,UltraScan-C,Asia,1/3/2025,Probe Malfunction,0,10,0,66.65
+US-012,UltraScan-A,Europe,6/9/2025,Display Issue,1,4,1,94.25
+US-039,UltraScan-B,North America,8/15/2025,Software Error,1,13,1,69.16
+US-002,UltraScan-C,Europe,9/26/2025,Display Issue,1,6,0,74.68
+US-003,UltraScan-A,Europe,4/30/2025,Probe Malfunction,1,8,0,64.17
+US-049,UltraScan-A,North America,3/30/2025,Calibration,0,5,0,89.34
+US-037,UltraScan-B,Asia,3/9/2025,Calibration,1,3,1,69.87
+US-049,UltraScan-C,Asia,4/8/2025,Probe Malfunction,0,6,0,75.68
+US-017,UltraScan-C,South America,9/24/2025,Probe Malfunction,1,4,0,62.67
+US-049,UltraScan-A,North America,4/15/2025,Calibration,1,9,0,99.38
+US-002,UltraScan-A,South America,5/3/2025,Display Issue,1,13,0,64.57
+US-002,UltraScan-B,South America,1/29/2025,Display Issue,0,3,1,88.54
+US-028,UltraScan-B,South America,5/17/2025,Probe Malfunction,0,4,0,71.37
+US-023,UltraScan-C,Asia,7/14/2025,Display Issue,0,7,0,60.31
+US-037,UltraScan-C,North America,8/14/2025,Calibration,1,7,0,89.99
+US-032,UltraScan-A,South America,6/19/2025,Display Issue,1,12,1,66.68
+US-033,UltraScan-C,North America,1/9/2025,Probe Malfunction,0,12,0,93.26
+US-001,UltraScan-B,North America,2/9/2025,Calibration,0,4,0,95.76
+US-019,UltraScan-B,Asia,1/25/2025,Display Issue,0,6,0,92.99
+US-002,UltraScan-A,South America,9/18/2025,Software Error,1,12,1,51.75
+US-044,UltraScan-B,South America,8/14/2025,Calibration,1,13,0,89.37
+US-026,UltraScan-B,North America,5/4/2025,Calibration,0,3,0,70.57
+US-032,UltraScan-B,Europe,2/7/2025,Software Error,0,6,0,93.69
+US-006,UltraScan-B,Asia,9/8/2025,Software Error,1,12,0,81.9
+US-032,UltraScan-A,Asia,6/25/2025,Calibration,1,2,0,91.68
+US-004,UltraScan-A,Asia,3/31/2025,Software Error,0,8,1,74.97
+US-011,UltraScan-C,Asia,2/6/2025,Probe Malfunction,0,2,0,76.75
+US-017,UltraScan-B,South America,6/25/2025,Probe Malfunction,0,11,0,57.22
+US-038,UltraScan-C,South America,3/22/2025,Probe Malfunction,0,7,0,89.2
+US-024,UltraScan-A,Europe,4/24/2025,Calibration,0,9,0,70.97
+US-005,UltraScan-A,Asia,2/9/2025,Software Error,0,1,0,75
+US-034,UltraScan-A,Asia,8/12/2025,Software Error,1,8,1,89.25
+US-006,UltraScan-A,North America,4/25/2025,Display Issue,0,7,0,79.94
+US-022,UltraScan-A,South America,7/5/2025,Display Issue,1,6,0,60.05
+US-011,UltraScan-A,Asia,2/25/2025,Software Error,0,6,0,79.51
+US-048,UltraScan-A,Europe,2/9/2025,Software Error,0,6,0,70.38
+US-016,UltraScan-B,Europe,2/9/2025,Software Error,0,9,0,73.48
+US-033,UltraScan-C,South America,8/25/2025,Calibration,0,2,0,51.42
+US-009,UltraScan-A,Europe,9/19/2025,Software Error,1,1,1,60.5
+US-006,UltraScan-B,Europe,8/4/2025,Display Issue,1,13,0,64.05
+US-016,UltraScan-B,South America,5/27/2025,Calibration,0,12,0,85.65
+US-029,UltraScan-C,Asia,6/17/2025,Software Error,0,6,1,50.57
+US-003,UltraScan-A,Asia,4/2/2025,Display Issue,1,10,0,70.44
+US-020,UltraScan-C,Europe,2/28/2025,Calibration,0,11,0,96.2
+US-036,UltraScan-A,Europe,2/28/2025,Software Error,0,8,0,55.59
+US-019,UltraScan-B,Asia,6/18/2025,Software Error,1,3,0,75.82
+US-026,UltraScan-B,South America,9/26/2025,Software Error,0,12,0,89.33
+US-003,UltraScan-B,Europe,2/14/2025,Calibration,0,10,0,97.13
+US-019,UltraScan-B,North America,6/30/2025,Display Issue,0,1,0,87.34
+US-020,UltraScan-C,South America,6/19/2025,Display Issue,1,9,1,86.03
+US-032,UltraScan-A,Europe,7/10/2025,Probe Malfunction,0,13,0,91.32
+US-007,UltraScan-A,Europe,6/4/2025,Software Error,0,13,0,72.31
+US-041,UltraScan-C,North America,7/7/2025,Probe Malfunction,1,1,0,90.29
+US-033,UltraScan-A,North America,1/7/2025,Probe Malfunction,0,3,0,50.4
+US-040,UltraScan-B,Asia,5/13/2025,Display Issue,1,8,0,96.23
+US-039,UltraScan-A,South America,8/23/2025,Calibration,0,14,1,72.17
+US-018,UltraScan-B,South America,2/14/2025,Calibration,1,3,1,77.67
+US-040,UltraScan-C,Asia,9/6/2025,Display Issue,0,13,0,62.74
+US-001,UltraScan-A,South America,1/31/2025,Calibration,0,4,1,87.13
+US-011,UltraScan-C,South America,1/23/2025,Probe Malfunction,0,8,0,53.83
+US-028,UltraScan-A,South America,6/9/2025,Software Error,0,1,0,93.63
+US-025,UltraScan-B,South America,6/7/2025,Display Issue,1,13,0,91.41
+US-050,UltraScan-C,South America,2/8/2025,Software Error,1,13,1,60.8
+US-023,UltraScan-A,North America,3/23/2025,Calibration,0,6,0,90.47
+US-031,UltraScan-B,South America,9/15/2025,Software Error,0,1,0,89.32
+US-030,UltraScan-C,North America,7/25/2025,Calibration,1,14,1,81.61
+US-042,UltraScan-C,South America,3/18/2025,Calibration,1,1,0,68.68
+US-035,UltraScan-A,Asia,1/12/2025,Probe Malfunction,0,14,0,63.57
+US-007,UltraScan-A,Europe,8/12/2025,Calibration,0,8,0,61.59
+US-016,UltraScan-A,North America,1/13/2025,Probe Malfunction,0,11,0,65.93
+US-026,UltraScan-B,South America,2/15/2025,Probe Malfunction,0,4,0,95.18
+US-048,UltraScan-A,Asia,6/4/2025,Probe Malfunction,0,12,0,53.88
+US-049,UltraScan-C,Europe,4/23/2025,Display Issue,0,1,0,91.44
+US-002,UltraScan-C,North America,8/21/2025,Display Issue,0,10,1,67.44
+US-001,UltraScan-A,Europe,1/17/2025,Calibration,1,7,0,76.08
+US-048,UltraScan-A,Asia,8/11/2025,Probe Malfunction,0,5,0,89.72
+US-012,UltraScan-C,North America,7/7/2025,Display Issue,0,5,0,94.22
+US-005,UltraScan-B,Europe,6/12/2025,Probe Malfunction,0,1,0,67.24
+US-037,UltraScan-A,South America,3/15/2025,Software Error,0,14,0,73.09
+US-032,UltraScan-A,North America,8/21/2025,Software Error,0,10,0,70.73
+US-009,UltraScan-C,Europe,8/12/2025,Software Error,0,11,0,50.66
+US-041,UltraScan-A,Asia,3/1/2025,Calibration,0,6,0,64.8
+US-035,UltraScan-B,Asia,8/10/2025,Probe Malfunction,0,14,0,72.96
+US-019,UltraScan-C,North America,2/6/2025,Software Error,0,9,0,70.55
+US-048,UltraScan-A,Europe,7/15/2025,Display Issue,0,9,0,86.1
+US-016,UltraScan-C,North America,8/30/2025,Software Error,1,8,0,69.24
+US-003,UltraScan-A,North America,8/7/2025,Software Error,0,5,0,74.47
+US-020,UltraScan-A,Europe,7/11/2025,Software Error,1,1,0,71.48
+US-024,UltraScan-A,Europe,1/17/2025,Calibration,0,9,0,87.03
+US-033,UltraScan-B,South America,1/12/2025,Display Issue,0,1,1,93.15
+US-024,UltraScan-B,Europe,7/12/2025,Probe Malfunction,0,8,0,76.59
+US-011,UltraScan-C,Asia,1/22/2025,Display Issue,0,5,0,89.47
+US-049,UltraScan-A,North America,4/30/2025,Probe Malfunction,1,3,1,64.84
+US-008,UltraScan-A,North America,7/29/2025,Calibration,1,11,0,77.07
+US-036,UltraScan-B,Asia,9/27/2025,Calibration,1,7,0,67.26
+US-038,UltraScan-A,Europe,7/11/2025,Calibration,0,7,0,70.71
+US-040,UltraScan-B,Asia,6/24/2025,Calibration,0,9,0,86.62
+US-020,UltraScan-A,Asia,7/23/2025,Probe Malfunction,0,7,1,94.08
+US-035,UltraScan-C,South America,6/13/2025,Software Error,0,13,0,56.07
+US-048,UltraScan-A,Asia,9/8/2025,Probe Malfunction,0,11,1,81.73
+US-025,UltraScan-A,North America,8/15/2025,Display Issue,0,14,0,79.11
+US-035,UltraScan-B,Asia,1/7/2025,Calibration,0,3,0,55.92
+US-025,UltraScan-A,North America,1/29/2025,Calibration,0,11,0,60.59
+US-029,UltraScan-A,North America,2/2/2025,Display Issue,1,13,0,65.55
+US-018,UltraScan-B,North America,5/14/2025,Probe Malfunction,1,14,0,58.35
+US-046,UltraScan-C,Europe,3/20/2025,Software Error,1,13,1,62.19
+US-018,UltraScan-C,South America,2/27/2025,Software Error,0,1,0,63.38
+US-002,UltraScan-B,North America,1/26/2025,Display Issue,0,8,0,66.78
+US-035,UltraScan-B,North America,8/14/2025,Software Error,0,12,0,87.47
+US-016,UltraScan-B,Europe,1/4/2025,Probe Malfunction,1,3,0,78.6
+US-041,UltraScan-B,North America,4/9/2025,Probe Malfunction,0,12,0,99.31
+US-036,UltraScan-B,Asia,2/8/2025,Display Issue,0,8,0,70.74
+US-033,UltraScan-C,Asia,6/6/2025,Probe Malfunction,1,8,0,87.69
+US-004,UltraScan-C,South America,3/16/2025,Calibration,0,13,0,93.57
+US-033,UltraScan-B,North America,5/10/2025,Display Issue,0,5,0,83.95
+US-014,UltraScan-A,Europe,6/24/2025,Probe Malfunction,0,13,1,70.59
+US-021,UltraScan-B,Asia,3/25/2025,Display Issue,0,12,1,87.68
+US-048,UltraScan-A,Europe,1/22/2025,Software Error,0,13,0,60.18
+US-020,UltraScan-B,Europe,1/27/2025,Probe Malfunction,0,1,0,66.38
+US-008,UltraScan-B,Asia,7/14/2025,Calibration,0,13,1,77.33
+US-007,UltraScan-C,Europe,8/24/2025,Probe Malfunction,0,10,0,78.77
+US-003,UltraScan-A,Asia,4/2/2025,Display Issue,1,7,1,51.11
+US-017,UltraScan-A,Europe,1/21/2025,Display Issue,0,12,0,97.26
+US-033,UltraScan-C,Asia,3/25/2025,Probe Malfunction,0,10,0,84.83
+US-048,UltraScan-C,North America,9/19/2025,Calibration,0,5,1,74.79
+US-012,UltraScan-C,South America,5/27/2025,Calibration,1,8,1,96.66
+US-022,UltraScan-C,Asia,9/14/2025,Calibration,0,9,0,71.95
+US-022,UltraScan-A,Asia,2/27/2025,Display Issue,0,11,0,99.02
+US-046,UltraScan-A,South America,1/15/2025,Probe Malfunction,1,14,0,75.61
+US-030,UltraScan-B,Asia,6/11/2025,Software Error,1,7,0,55.71
+US-038,UltraScan-B,Asia,6/12/2025,Display Issue,0,14,0,88.24
+US-038,UltraScan-C,Europe,1/12/2025,Calibration,1,13,0,83.94
+US-045,UltraScan-C,South America,7/27/2025,Probe Malfunction,0,7,1,88.65
+US-008,UltraScan-C,North America,1/27/2025,Calibration,0,1,0,97.57
+US-027,UltraScan-B,Asia,3/13/2025,Software Error,0,4,0,88.82
+US-027,UltraScan-B,South America,3/1/2025,Calibration,0,2,0,80.57
+US-034,UltraScan-B,Europe,5/25/2025,Calibration,1,2,0,92.87
+US-021,UltraScan-B,North America,4/3/2025,Software Error,0,2,0,83.66
+US-030,UltraScan-B,South America,1/8/2025,Probe Malfunction,0,4,0,70.41
+US-033,UltraScan-B,North America,3/20/2025,Display Issue,1,14,0,94.28
+US-028,UltraScan-B,North America,1/27/2025,Probe Malfunction,1,1,1,61.1
+US-047,UltraScan-C,North America,6/23/2025,Software Error,0,4,1,85.73
+US-033,UltraScan-C,Asia,2/19/2025,Calibration,0,2,0,94.08
+US-005,UltraScan-C,Asia,7/18/2025,Probe Malfunction,0,5,1,86.57
+US-048,UltraScan-C,Europe,6/30/2025,Display Issue,1,3,0,84.86
+US-019,UltraScan-B,Europe,1/24/2025,Software Error,0,12,0,87.63
+US-004,UltraScan-A,South America,2/15/2025,Probe Malfunction,1,8,0,73.25
+US-035,UltraScan-B,Europe,1/15/2025,Display Issue,0,4,0,93.71
+US-049,UltraScan-A,North America,6/2/2025,Software Error,0,1,0,60.17
+US-017,UltraScan-C,North America,8/10/2025,Display Issue,0,1,1,56.37
+US-044,UltraScan-B,Asia,7/25/2025,Software Error,0,12,0,64.28
+US-028,UltraScan-C,North America,8/24/2025,Calibration,0,10,1,76.58
+US-030,UltraScan-B,South America,8/16/2025,Probe Malfunction,1,3,0,75.53
+US-029,UltraScan-C,North America,1/9/2025,Display Issue,0,9,0,91.03
+US-046,UltraScan-A,North America,6/15/2025,Software Error,0,7,1,70.23
+US-006,UltraScan-A,South America,8/2/2025,Display Issue,1,2,0,74.22
+US-035,UltraScan-A,Europe,4/27/2025,Display Issue,0,13,0,50.67
+US-041,UltraScan-B,Europe,3/13/2025,Probe Malfunction,1,9,0,70.49
+US-037,UltraScan-A,South America,3/5/2025,Calibration,0,10,0,82.39
+US-024,UltraScan-B,Asia,7/24/2025,Display Issue,0,2,0,50.78
+US-029,UltraScan-A,North America,7/28/2025,Software Error,0,3,0,64.04
+US-049,UltraScan-A,South America,3/13/2025,Software Error,0,11,0,60.4
+US-046,UltraScan-B,North America,4/5/2025,Calibration,1,13,1,52.1
+US-031,UltraScan-B,Asia,6/15/2025,Software Error,0,10,0,73.96
+US-035,UltraScan-A,North America,2/1/2025,Calibration,0,14,0,59.09
+US-033,UltraScan-B,South America,1/11/2025,Software Error,0,2,0,87.15
+US-021,UltraScan-A,North America,8/5/2025,Probe Malfunction,0,3,1,92.4
+US-032,UltraScan-B,Europe,4/12/2025,Display Issue,1,6,0,77.28
+US-023,UltraScan-C,Asia,9/24/2025,Probe Malfunction,0,9,0,99.09
+US-033,UltraScan-C,Asia,8/2/2025,Display Issue,0,9,0,72.52
+US-003,UltraScan-C,Asia,6/28/2025,Display Issue,1,7,0,75.67
+US-018,UltraScan-C,South America,3/29/2025,Display Issue,0,12,1,99.46
+US-025,UltraScan-C,Asia,2/10/2025,Probe Malfunction,1,3,0,61.58
+US-042,UltraScan-A,Europe,3/17/2025,Display Issue,0,4,0,97.13
+US-031,UltraScan-C,South America,2/15/2025,Probe Malfunction,0,6,0,52.14
+US-003,UltraScan-C,Europe,6/9/2025,Calibration,0,11,0,72.32
+US-040,UltraScan-C,North America,3/21/2025,Software Error,1,5,1,53.5
+US-046,UltraScan-C,North America,3/27/2025,Software Error,1,2,1,86.46
+US-024,UltraScan-B,North America,4/2/2025,Display Issue,0,13,0,80.42
+US-050,UltraScan-A,North America,5/28/2025,Probe Malfunction,0,6,1,85.33
+US-032,UltraScan-C,Europe,6/10/2025,Software Error,0,3,0,68.72
+US-047,UltraScan-C,South America,7/21/2025,Probe Malfunction,0,14,0,68.47
+US-022,UltraScan-C,South America,8/30/2025,Probe Malfunction,0,8,0,52.27
+US-023,UltraScan-A,Asia,1/2/2025,Display Issue,1,2,0,67.5
+US-002,UltraScan-B,Europe,8/13/2025,Software Error,0,1,0,96.46
+US-027,UltraScan-A,North America,8/21/2025,Display Issue,0,9,1,68.96
+US-042,UltraScan-B,Europe,3/18/2025,Display Issue,0,14,0,91.57
+US-002,UltraScan-C,Asia,4/26/2025,Software Error,0,12,1,92.12
+US-026,UltraScan-C,Asia,6/3/2025,Software Error,0,3,0,68.66
+US-017,UltraScan-A,Europe,4/13/2025,Calibration,0,11,1,81.6
+US-040,UltraScan-A,Europe,7/13/2025,Calibration,1,1,0,54.77
+US-033,UltraScan-B,Europe,6/15/2025,Probe Malfunction,0,7,0,55.18
+US-009,UltraScan-B,South America,3/31/2025,Software Error,0,13,0,52.43
+US-043,UltraScan-A,North America,6/23/2025,Calibration,0,10,1,79.05
+US-048,UltraScan-B,Europe,5/2/2025,Probe Malfunction,1,5,0,71.3
+US-039,UltraScan-A,Europe,5/23/2025,Probe Malfunction,1,5,1,77.4
+US-029,UltraScan-B,Europe,4/16/2025,Probe Malfunction,0,14,0,76.05
+US-042,UltraScan-A,Asia,5/3/2025,Calibration,1,1,0,67.51
+US-026,UltraScan-A,Asia,1/9/2025,Software Error,0,9,1,83.87
+US-035,UltraScan-A,South America,9/19/2025,Display Issue,0,7,0,87.93
+US-050,UltraScan-B,North America,3/14/2025,Probe Malfunction,0,8,0,50.73
+US-025,UltraScan-B,South America,8/11/2025,Calibration,0,9,0,60.36
+US-024,UltraScan-B,North America,2/10/2025,Calibration,0,6,1,85.66
+US-013,UltraScan-A,Asia,7/23/2025,Display Issue,1,12,0,69.33
+US-007,UltraScan-B,Asia,9/21/2025,Display Issue,1,5,1,83.12
+US-036,UltraScan-B,Asia,6/27/2025,Calibration,0,6,0,67.35
+US-045,UltraScan-A,South America,3/25/2025,Software Error,0,11,1,69.54
+US-020,UltraScan-C,Europe,4/21/2025,Display Issue,0,2,1,57.93
+US-001,UltraScan-A,Europe,9/8/2025,Calibration,0,4,0,62.91
+US-008,UltraScan-B,Asia,1/7/2025,Display Issue,0,3,0,80.27
+US-046,UltraScan-A,Europe,3/25/2025,Software Error,0,13,0,71.66
+US-016,UltraScan-C,Europe,7/27/2025,Probe Malfunction,0,7,0,88.72
+US-014,UltraScan-A,South America,1/22/2025,Display Issue,1,9,0,92.63
+US-012,UltraScan-B,North America,1/3/2025,Software Error,0,5,0,77.08
+US-023,UltraScan-C,Asia,5/7/2025,Calibration,0,6,0,87.91
+US-015,UltraScan-B,Asia,7/7/2025,Display Issue,1,10,0,65.35
+US-028,UltraScan-C,South America,1/14/2025,Display Issue,0,14,0,70.75
+US-034,UltraScan-C,South America,1/12/2025,Calibration,0,12,0,85.64
+US-002,UltraScan-A,Europe,3/28/2025,Probe Malfunction,0,12,1,69.31
+US-032,UltraScan-A,Asia,1/12/2025,Calibration,0,2,0,79.43
+US-023,UltraScan-B,North America,1/25/2025,Display Issue,1,3,0,59.27
+US-022,UltraScan-A,South America,8/31/2025,Calibration,0,3,0,79.99
+US-025,UltraScan-A,North America,5/2/2025,Software Error,0,12,1,93.08
+US-022,UltraScan-C,North America,5/27/2025,Calibration,1,12,1,93.43
+US-022,UltraScan-A,Asia,2/24/2025,Display Issue,1,9,1,86.22
+US-049,UltraScan-C,Asia,8/26/2025,Calibration,1,7,1,87.29
+US-042,UltraScan-C,South America,6/22/2025,Probe Malfunction,0,8,0,77.9
+US-006,UltraScan-C,Asia,8/9/2025,Calibration,0,11,1,79.23
+US-015,UltraScan-B,Asia,4/29/2025,Probe Malfunction,1,10,0,56.68
+US-043,UltraScan-B,Asia,7/2/2025,Software Error,1,11,0,72.19
+US-037,UltraScan-B,North America,3/23/2025,Probe Malfunction,0,9,1,72.54
+US-033,UltraScan-C,South America,7/30/2025,Calibration,0,6,0,97.92
+US-008,UltraScan-B,Europe,5/30/2025,Display Issue,0,4,0,71.55
+US-044,UltraScan-B,North America,2/6/2025,Probe Malfunction,1,12,0,77.47
+US-044,UltraScan-A,Asia,2/28/2025,Software Error,0,1,0,76.66
+US-005,UltraScan-B,North America,5/11/2025,Probe Malfunction,0,8,0,81.84
+US-039,UltraScan-B,Asia,7/21/2025,Probe Malfunction,0,7,0,87.41
+US-004,UltraScan-C,Asia,8/31/2025,Probe Malfunction,0,2,0,61.25
+US-006,UltraScan-C,North America,2/4/2025,Software Error,1,8,0,76.44
+US-045,UltraScan-C,South America,4/3/2025,Calibration,0,12,1,91.3
+US-032,UltraScan-C,Asia,7/26/2025,Probe Malfunction,1,5,0,73.16
+US-030,UltraScan-C,South America,8/1/2025,Probe Malfunction,1,7,0,63.92
+US-047,UltraScan-C,Europe,6/8/2025,Display Issue,0,4,1,82.74
+US-035,UltraScan-B,Asia,1/24/2025,Software Error,0,5,1,91.19
+US-040,UltraScan-C,South America,1/4/2025,Probe Malfunction,0,8,0,53.16
+US-016,UltraScan-C,South America,8/8/2025,Software Error,1,1,0,88.84
+US-013,UltraScan-A,Europe,1/20/2025,Probe Malfunction,0,1,1,91.08
+US-050,UltraScan-B,South America,6/1/2025,Calibration,0,4,1,73.08
+US-042,UltraScan-B,South America,2/19/2025,Calibration,1,3,0,99.17
+US-030,UltraScan-B,Europe,6/26/2025,Probe Malfunction,0,13,0,89.34
+US-019,UltraScan-C,Asia,4/6/2025,Calibration,1,10,0,88.68
+US-017,UltraScan-C,South America,4/15/2025,Probe Malfunction,0,12,0,87.39
+US-019,UltraScan-C,South America,9/7/2025,Calibration,0,2,0,57.53
+US-028,UltraScan-A,South America,4/27/2025,Display Issue,0,12,0,60.86
+US-026,UltraScan-C,North America,8/16/2025,Display Issue,1,3,0,73.2
+US-037,UltraScan-A,Europe,3/7/2025,Display Issue,0,11,0,63.2
+US-026,UltraScan-B,North America,9/19/2025,Software Error,1,11,0,70.76
+US-023,UltraScan-C,Europe,8/31/2025,Software Error,1,14,1,94.42
+US-009,UltraScan-A,Asia,7/5/2025,Display Issue,0,11,0,91.22
+US-012,UltraScan-A,Asia,9/3/2025,Software Error,1,1,0,81.5
+US-001,UltraScan-C,South America,5/5/2025,Calibration,0,1,1,92.91
+US-001,UltraScan-B,Europe,9/25/2025,Probe Malfunction,0,6,0,89.19
+US-047,UltraScan-B,Asia,5/11/2025,Probe Malfunction,0,5,0,71.45
+US-034,UltraScan-B,Europe,8/25/2025,Probe Malfunction,1,8,0,60.05
+US-032,UltraScan-A,Asia,1/18/2025,Display Issue,0,2,0,75.71
+US-048,UltraScan-A,North America,2/9/2025,Software Error,0,4,1,86.81
+US-025,UltraScan-A,Asia,1/21/2025,Calibration,0,8,0,71.82
+US-040,UltraScan-A,North America,8/13/2025,Calibration,0,12,0,83.34
+US-045,UltraScan-B,Asia,1/8/2025,Display Issue,0,6,0,54.72
+US-001,UltraScan-C,South America,4/10/2025,Calibration,1,1,0,87.4
+US-016,UltraScan-A,North America,8/28/2025,Calibration,1,4,1,90.64
+US-039,UltraScan-A,Asia,3/28/2025,Calibration,0,1,0,85.34
+US-005,UltraScan-B,South America,1/14/2025,Calibration,1,13,0,98.36
+US-022,UltraScan-C,North America,1/2/2025,Software Error,0,2,0,91.33
+US-029,UltraScan-C,South America,2/10/2025,Calibration,1,5,0,95.15
+US-003,UltraScan-B,Europe,4/21/2025,Probe Malfunction,0,14,0,96.68
+US-012,UltraScan-B,Europe,1/14/2025,Display Issue,0,8,0,90.07
+US-026,UltraScan-C,North America,8/19/2025,Software Error,0,8,0,83.71
+US-016,UltraScan-A,Asia,3/25/2025,Calibration,1,11,0,50.29
+US-037,UltraScan-C,North America,5/10/2025,Software Error,0,3,0,73.29
+US-022,UltraScan-B,South America,8/19/2025,Calibration,0,11,0,78.56
+US-029,UltraScan-A,Asia,5/25/2025,Probe Malfunction,0,13,0,65.2
+US-014,UltraScan-A,Europe,1/28/2025,Display Issue,0,4,1,65.91
+US-028,UltraScan-B,Asia,3/7/2025,Calibration,0,10,0,98.06
+US-005,UltraScan-B,Europe,6/12/2025,Calibration,1,11,0,94.59
+US-047,UltraScan-B,Asia,8/17/2025,Calibration,1,14,0,92.46
+US-049,UltraScan-C,Asia,9/18/2025,Calibration,0,6,0,70.3
+US-030,UltraScan-C,Asia,6/13/2025,Display Issue,1,11,0,50.68
+US-046,UltraScan-A,South America,1/10/2025,Display Issue,0,11,0,54.01
+US-005,UltraScan-B,South America,7/14/2025,Probe Malfunction,1,10,0,65.61
+US-012,UltraScan-A,North America,4/28/2025,Display Issue,1,3,0,50.79
+US-016,UltraScan-A,North America,9/27/2025,Calibration,0,2,1,50.86
+US-026,UltraScan-A,Europe,3/21/2025,Probe Malfunction,1,6,1,95.83
+US-026,UltraScan-A,South America,4/3/2025,Probe Malfunction,0,11,0,85.31
