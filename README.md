@@ -1,2 +1,2 @@
 # test
-It is a markdown file repo.
+It is a markdown file repository.
